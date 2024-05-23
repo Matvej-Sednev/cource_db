@@ -1,0 +1,7 @@
+power, kW
+power_day, kW
+power_night, kW
+cold_water, m^3
+gas_meter, m^3
+hot_water, m^3
+heat_meters, Gcal
